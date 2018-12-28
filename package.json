@@ -1,0 +1,19 @@
+{
+  "name": "chatbot-facebook",
+  "version": "1.0.0",
+  "description": "Proyecto chatbot para la plataforma de messager de facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixHdezz/facebook-chatbot-api.git"
+  },
+  "author": "Felix Hernnadez Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixHdezz/facebook-chatbot-api/issues"
+  },
+  "homepage": "https://github.com/felixHdezz/facebook-chatbot-api#readme"
+}
